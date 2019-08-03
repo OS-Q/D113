@@ -1,23 +1,17 @@
 {
-  "name": "ArduinoJson",
+  "name": "Json",
   "keywords": "json, rest, http, web",
   "description": "An elegant and efficient JSON library for embedded systems",
-  "homepage": "https://arduinojson.org/?utm_source=meta&utm_medium=library.json",
+  "version": "1.0.0",
+  "authors": {
+    "name":  "qitas",
+    "email": "qitas@qitas.cn",
+    "url": "http://tang.qitas.cn"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bblanchon/ArduinoJson.git"
+    "url": "https://github.com/OS-Q/D92.git"
   },
-  "version": "5.13.5",
-  "authors": {
-    "name": "Benoit Blanchon",
-    "url": "https://blog.benoitblanchon.fr"
-  },
-  "exclude": [
-    "fuzzing",
-    "scripts",
-    "test",
-    "third-party"
-  ],
   "frameworks": "arduino",
   "platforms": "*"
 }
