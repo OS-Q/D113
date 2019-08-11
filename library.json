@@ -1,5 +1,5 @@
 {
-  "name": "Json",
+  "name": "format",
   "keywords": "json, rest, http, web",
   "description": "An elegant and efficient JSON library for embedded systems",
   "version": "1.0.0",
@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OS-Q/D92.git"
+    "url": "https://github.com/OS-Q/D97.git"
   },
   "frameworks": "arduino",
-  "platforms": "*"
+  "platforms": "esp8266,esp32"
 }
